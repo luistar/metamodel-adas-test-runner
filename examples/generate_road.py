@@ -52,8 +52,9 @@ def main():
     scenario.add_object(tree)
 
 
-    # Create an ETK800 with the licence plate 'PYTHON'
-    vehicle = Vehicle('ego_vehicle', model='etk800', licence='UNINA', color='Red')
+    # ETK800 is a more traditional model
+    vehicle = Vehicle('ego_vehicle', model='pigeon', licence='UNINA', color='Green')
+
     # Add it to our scenario at this position and rotation
     #scenario.add_vehicle(vehicle, pos=(50, 375, -28), rot=None, rot_quat=(0, 0, 0.3826834, 0.9238795))
     scenario.add_vehicle(vehicle, pos=(0, 0, -28), rot=(0, 0, 180))
