@@ -30,7 +30,7 @@ python test_runner.py --beamng-home="D:/BeamNG/" --beamng-user="D:/BeamNG_user/"
 ```
 
 The simulation results are saved in a JSON file with the same name of the test scenario in the `/output/` 
-directory.
+directory. A sample output file is available [here](output/scenario.json).
 
 # Screen captures
 Two frames from the BeamNG.tech simulation of the provided sample test scenario (`scenario.csv`) are shown as follows.
