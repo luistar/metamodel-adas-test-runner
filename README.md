@@ -3,7 +3,7 @@ This tool serves as a proof of concept of the possibility of simulating of Advan
 test scenarios defined using the Meta-Model-based visual editor proposed 
 by Basciani, Cortellessa, Di Martino, [Di Nucci](https://https://dardin88.github.io/), 
 [Di Pompeo](https://danieledipompeo.github.io), Gravino, and [Starace](https://luistar.github.io) in a research 
-paper titled "*Towards a Meta-Model for ADAS Testing in Co-Simulation*".
+paper titled "*ADAS Verification in Co-Simulation: Towards a Meta-Model for Defining Test Scenarios*", which has been accepted for presentation at the [19th Workshop on Advances in Model Based Testing (A-MOST 2023)](https://conf.researchr.org/home/icst-2023/a-most-2023).
 
 The tool takes as input a preliminary CSV representation of a test scenario produced by the modelling framework and simulates the
 test scenario using the well-known [BeamNG.tech](https://beamng.tech) platform, capturing a number of relevant metrics.
