@@ -35,3 +35,6 @@ directory. A sample output file is available [here](output/scenario.json).
 # Screen captures
 Two frames from the BeamNG.tech simulation of the provided sample test scenario (`scenario.csv`) are shown as follows.
 ![Figure](img1.png)![Figure](img2.png)
+
+# Acknowledgements
+This work has been partially supported by the Italian PNRR MUR project PE0000013-FAIR.
